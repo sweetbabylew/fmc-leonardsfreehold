@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1096" viewBox="0 0 1100 1096" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Leonard's Freehold two-bedroom upper-level floor plan with two bedrooms, a bathroom, hallway, and closets">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="44" y="12" width="1026" height="1075"/>
+<path class="w" d="M435,16 V35 M435,160 V362 M435,366 V400 M435,509 V543 M435,1070 V1083 M450,15 V35 M450,159 V357 M450,362 V400 M450,510 V548 M450,1070 V1083 M615,16 V185 M615,189 V202 M615,205 V371 M615,1070 V1083 M627,56 V123 M627,208 V371 M627,1070 V1083 M835,454 V480 M835,547 V1075 M1057,12 V313 M1057,398 V758 M1057,770 V845 M1057,857 V950 M1057,960 V1083 M33,25 H47 M383,25 H430 M450,25 H496 M498,25 H575 M673,25 H702 M976,25 H1006 M33,190 H46 M429,190 H447 M450,190 H620 M33,362 H46 M450,362 H468 M600,362 H884 M1024,362 H1062 M33,374 H46 M433,374 H447 M450,374 H468 M586,374 H884 M1024,374 H1060 M41,539 H59 M66,539 H430 M433,539 H447 M450,539 H639 M775,539 H838 M33,551 H52 M64,551 H410 M453,551 H639 M808,551 H829 M834,551 H847 M33,851 H46 M834,851 H847 M900,851 H960 M33,880 H46 M834,880 H1066 M33,1071 H830 M834,1071 H847 M912,1071 H975 M1016,1071 H1044 M1049,1071 H1066"/>
+<path class="d" d="M435,9 V37 M450,21 V59 M450,225 V252 M450,343 V364 M450,792 V819 M615,19 V65 M615,250 V277 M627,9 V57 M627,336 V364 M835,455 V486 M835,1051 V1068 M1057,54 V68 M1057,348 V364 M1057,382 V401 M1057,751 V765 M1057,878 V959 M1057,1056 V1072 M46,25 H67 M425,25 H443 M592,25 H646 M954,25 H973 M1012,25 H1056 M476,190 H501 M597,190 H614 M870,190 H900 M932,190 H948 M580,362 H602 M624,362 H645 M1026,362 H1069 M448,374 H473 M581,374 H600 M628,374 H653 M743,374 H779 M802,374 H825 M1025,374 H1069 M47,539 H63 M334,539 H383 M782,539 H807 M46,551 H66 M1007,851 H1022 M1043,880 H1059 M849,1071 H868 M1024,1071 H1042"/>
+<path class="win" d="M1065,12 V67 M1070,12 V67 M1075,12 V67 M1063,12 H1077 M1063,67 H1077"/>
+<path class="win" d="M1065,308 V439 M1070,308 V439 M1075,308 V439 M1063,308 H1077 M1063,439 H1077"/>
+<path class="win" d="M1065,671 V718 M1070,671 V718 M1075,671 V718 M1063,671 H1077 M1063,718 H1077"/>
+<path class="win" d="M1065,847 V1087 M1070,847 V1087 M1075,847 V1087 M1063,847 H1077 M1063,1087 H1077"/>
+<path class="win" d="M98,1082 H780 M98,1087 H780 M98,1092 H780 M98,1080 V1094 M780,1080 V1094"/>
+<path class="win" d="M828,1082 H1032 M828,1087 H1032 M828,1092 H1032 M828,1080 V1094 M1032,1080 V1094"/>
+<path class="wo" d="M44,12 H1070 V12 M1070,67 V308 M1070,439 V671 M1070,718 V847 M1070,1087 V1087 H1032 M828,1087 H780 M98,1087 H44 V12"/>
+<text class="rm" x="230" y="290">Bedroom</text>
+<text class="rm" x="370" y="790">Bedroom</text>
+<text class="rm" x="810" y="155">Bathroom</text>
+<text class="cl" x="740" y="460">Hallway</text>
+<text class="sm" x="540" y="110">Closet</text>
+<text class="sm" x="530" y="310">Closet</text>
+<text class="sm" x="940" y="960">Closet</text>
+</svg>

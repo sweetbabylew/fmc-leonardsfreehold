@@ -1,25 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="630" height="1100" viewBox="0 0 630 1100" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Leonard's Freehold townhouse main-level floor plan with kitchen/dining, living room, and a closet">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1302" viewBox="0 0 760 1302" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Leonard's Freehold townhouse main-level floor plan with kitchen/dining, living room, and a closet">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="18" y="28" width="590" height="1038"/>
-<path class="w" d="M13,547 H383 M479,547 H606 M12,559 H383 M470,559 H606 M479,650 H610 M477,663 H590 M592,663 H608"/>
-<path class="d" d="M463,547 H482 M584,547 H606 M464,559 H479 M583,559 H612 M588,650 H607 M587,663 H606"/>
-<path class="win" d="M603,543 V603 M608,543 V603 M613,543 V603 M601,543 H615 M601,603 H615"/>
-<path class="win" d="M79,23 H183 M79,28 H183 M79,33 H183 M79,21 V35 M183,21 V35"/>
-<path class="win" d="M374,23 H479 M374,28 H479 M374,33 H479 M374,21 V35 M479,21 V35"/>
-<path class="arc" d="M86,1066 V966 M86,966 A100,100 0 0 1 186,1066"/>
-<path class="arc" d="M340,1066 V959 M340,959 A107,107 0 0 1 447,1066"/>
-<path class="wo" d="M18,28 H79 M183,28 H374 M479,28 H608 V543 M608,603 V1066 H447 M340,1066 H186 M86,1066 H18 V28"/>
-<text class="rm" x="295" y="260">Kitchen/Dining</text>
-<text class="rm" x="225" y="790">Living Room</text>
-<text class="cl" x="545" y="605">Closet</text>
+<rect class="fp" x="27" y="31" width="701" height="1233"/>
+<path class="w" d="M20,654 H462 M564,654 H725 M570,776 H729"/>
+<path class="d" d="M478,650 H564 M478,658 H564 M565,684 V768 M573,684 V768"/>
+<path class="arc" d="M105,31 V153 M105,153 A122,122 0 0 0 227,31"/>
+<path class="win" d="M454,26 H574 M454,31 H574 M454,36 H574 M454,24 V38 M574,24 V38"/>
+<path class="win" d="M108,1259 H227 M108,1264 H227 M108,1269 H227 M108,1257 V1271 M227,1257 V1271"/>
+<path class="arc" d="M532,1264 V1141 M409,1264 A123,123 0 0 1 532,1141"/>
+<path class="st" d="M727,662 V758 M569,679 H727 M569,712 H727 M569,743 H727"/>
+<path class="st" d="M569,790 V1259 M727,790 V1259 M569,806 H727 M569,841 H727 M569,872 H727 M569,904 H727 M569,938 H727 M569,970 H727 M569,1002 H727 M569,1037 H727 M569,1068 H727 M569,1100 H727 M569,1135 H727 M569,1166 H727 M569,1200 H727 M569,1233 H727"/>
+<path class="wo" d="M27,31 H105 M227,31 H454 M574,31 H728 V1264 H532 M409,1264 H227 M108,1264 H27 V31"/>
+<text class="rm" x="340" y="360">Kitchen/Dining</text>
+<text class="rm" x="285" y="960">Living Room</text>
+<text class="sm" x="648" y="722">Closet</text>
 </svg>

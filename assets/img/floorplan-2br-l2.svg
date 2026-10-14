@@ -12,20 +12,21 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="29" y="17" width="706" height="732"/>
-<path class="w" d="M304,116 V257 M304,260 V282 M304,360 V382 M427,32 V133 M427,160 V263 M577,385 V757 M310,136 H427 M406,262 H612 M709,262 H735 M27,383 H287 M310,383 H442 M546,383 H585 M576,615 H737"/>
-<path class="arc" d="M713,262 V161 M612,262 A101,101 0 0 1 713,161"/>
-<path class="arc" d="M304,363 H225 M304,284 A79,79 0 0 0 225,363"/>
-<path class="arc" d="M540,383 V468 M455,383 A85,85 0 0 0 540,468"/>
+<path class="w" d="M304,136 L426,136 M406,262 L612,262 M709,262 L735,262 M29,382 L443,382 M546,383 L577,383 L577,749 M577,615 L735,615 M304,17 L304,46 M304,116 L304,282 M304,360 L304,382 M426,17 L426,262"/>
+<path class="arc" d="M709,262 V165 M612,262 A97,97 0 0 1 709,165"/>
+<path class="arc" d="M304,360 H226 M304,282 A78,78 0 0 0 226,360"/>
+<path class="arc" d="M546,382.5 V485.5 M443,382.5 A103,103 0 0 0 546,485.5"/>
 <path class="d" d="M300,50 V119 M308,50 V119 M306,258 H393 M306,266 H393"/>
-<path class="st" d="M577,388 V600 M735,388 V600 M577,409 H735 M577,436 H735 M577,461 H735 M577,489 H735 M577,514 H735 M577,542 H735 M577,567 H735 M577,594 H735"/>
-<path class="st" d="M577,617 V749 M735,617 V749 M577,619 H735 M577,647 H735 M577,672 H735 M577,700 H735 M577,725 H735 M577,747 H735"/>
+<path class="st" d="M577,382 V615 M735,382 V615 M577,384 H735 M577,409 H735 M577,436 H735 M577,461 H735 M577,489 H735 M577,514 H735 M577,542 H735 M577,567 H735 M577,594 H735"/>
+<path class="st" d="M577,615 V749 M735,615 V749 M577,619 H735 M577,647 H735 M577,672 H735 M577,700 H735 M577,725 H735 M577,747 H735"/>
 <path class="st" d="M735,219 V279 M735,219 V279"/>
-<path class="wo" d="M29,17 H735 V749 H29 V17"/>
+<path class="st" d="M572,384.0 H594"/>
+<path class="wo" d="M29,17 H735 V749 H29 V17 H39"/>
 <text class="rm" x="165" y="200">Bedroom</text>
 <text class="rm" x="566" y="150">Bathroom</text>
 <text class="rm" x="295" y="562">Bedroom</text>
 <text class="cl" x="492" y="338">Hallway</text>
 <text class="sm" x="366" y="82">Closet</text>
 <text class="sm" x="366" y="205">Closet</text>
-<text class="sm" x="656" y="680">Closet</text>
+<text class="sm" x="656" y="690">Closet</text>
 </svg>
